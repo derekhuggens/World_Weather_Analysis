@@ -1,8 +1,6 @@
-# 
-World_Weather_Analysis
+# World_Weather_Analysis
 
-##
-Using APIs to Visualize Weather Data
+## Using APIs to Visualize Weather Data
 
 ###
 
