@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 
-## Using APIs to Visualize Weather Data
+## Using APIs to help travelers build a vacation itinerary.
 
 ###
 
