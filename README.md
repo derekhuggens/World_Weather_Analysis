@@ -4,7 +4,7 @@
 
 ###
 
-In this repository, three folders contain the necessary code to:
+In this repository, three folders (Vacation_Itinerary, Vacation_Search, Weather_Database) contain the necessary code to:
 
   * Generate random latitudes and longitudes, locate nearest cities to those coordinates, perform API calls for weather in those cities.
   * Receive temperature input based on travel needs.
